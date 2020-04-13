@@ -33,8 +33,6 @@
             this.listview_lv = new System.Windows.Forms.FlowLayoutPanel();
             this.good_txt = new System.Windows.Forms.Label();
             this.bad_txt = new System.Windows.Forms.Label();
-            this.bunifuSeparator1 = new Bunifu.Framework.UI.BunifuSeparator();
-            this.bunifuSeparator2 = new Bunifu.Framework.UI.BunifuSeparator();
             this.good_files_checkbox = new System.Windows.Forms.CheckedListBox();
             this.bad_files_checkbox = new System.Windows.Forms.CheckedListBox();
             this.slct_all_bad_check = new System.Windows.Forms.CheckBox();
@@ -76,30 +74,6 @@
             this.bad_txt.Size = new System.Drawing.Size(59, 13);
             this.bad_txt.TabIndex = 3;
             this.bad_txt.Text = "Bad Files: ";
-            // 
-            // bunifuSeparator1
-            // 
-            this.bunifuSeparator1.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuSeparator1.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(105)))), ((int)(((byte)(105)))));
-            this.bunifuSeparator1.LineThickness = 1;
-            this.bunifuSeparator1.Location = new System.Drawing.Point(265, 293);
-            this.bunifuSeparator1.Name = "bunifuSeparator1";
-            this.bunifuSeparator1.Size = new System.Drawing.Size(354, 10);
-            this.bunifuSeparator1.TabIndex = 7;
-            this.bunifuSeparator1.Transparency = 255;
-            this.bunifuSeparator1.Vertical = false;
-            // 
-            // bunifuSeparator2
-            // 
-            this.bunifuSeparator2.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuSeparator2.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(105)))), ((int)(((byte)(105)))));
-            this.bunifuSeparator2.LineThickness = 1;
-            this.bunifuSeparator2.Location = new System.Drawing.Point(435, 12);
-            this.bunifuSeparator2.Name = "bunifuSeparator2";
-            this.bunifuSeparator2.Size = new System.Drawing.Size(12, 275);
-            this.bunifuSeparator2.TabIndex = 8;
-            this.bunifuSeparator2.Transparency = 255;
-            this.bunifuSeparator2.Vertical = true;
             // 
             // good_files_checkbox
             // 
@@ -207,8 +181,6 @@
             this.Controls.Add(this.slct_all_bad_check);
             this.Controls.Add(this.bad_files_checkbox);
             this.Controls.Add(this.good_files_checkbox);
-            this.Controls.Add(this.bunifuSeparator2);
-            this.Controls.Add(this.bunifuSeparator1);
             this.Controls.Add(this.bad_txt);
             this.Controls.Add(this.good_txt);
             this.Controls.Add(this.listview_lv);
@@ -231,8 +203,7 @@
         private System.Windows.Forms.FlowLayoutPanel listview_lv;
         private System.Windows.Forms.Label good_txt;
         private System.Windows.Forms.Label bad_txt;
-        private Bunifu.Framework.UI.BunifuSeparator bunifuSeparator1;
-        private Bunifu.Framework.UI.BunifuSeparator bunifuSeparator2;
+
         private System.Windows.Forms.CheckedListBox good_files_checkbox;
         private System.Windows.Forms.CheckedListBox bad_files_checkbox;
         private System.Windows.Forms.CheckBox slct_all_bad_check;

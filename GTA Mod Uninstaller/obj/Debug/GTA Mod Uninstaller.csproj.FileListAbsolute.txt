@@ -1,0 +1,11 @@
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA Mod Uninstaller.csprojAssemblyReference.cache
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA_Mod_Uninstaller.Form1.resources
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA_Mod_Uninstaller.ListItem_custom.resources
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA_Mod_Uninstaller.Properties.Resources.resources
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA_Mod_Uninstaller.settings.resources
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA Mod Uninstaller.csproj.GenerateResource.cache
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\bin\Debug\GTA Mod Uninstaller.exe.config
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\bin\Debug\GTA Mod Uninstaller.exe
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\bin\Debug\GTA Mod Uninstaller.pdb
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA Mod Uninstaller.exe
+D:\Unreal Projects\GTAModUninstaller\GTA Mod Uninstaller\obj\Debug\GTA Mod Uninstaller.pdb
