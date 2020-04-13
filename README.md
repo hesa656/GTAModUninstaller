@@ -4,10 +4,10 @@ Select mod files that you want to delete or Turn Off (Copy to another dir that y
   ![Image description](https://i.gyazo.com/edc6c724de6e29a829f4f0d59df05d32.png)
 
 ## Download Portable Version
-[**GTA Mod Uninstaller** v1.0.0](https://pages.github.com/)
+[**GTA Mod Uninstaller** v1.0.0](https://github.com/hesa656/GTAModUninstaller/releases/tag/1.0.0)
 # Open Source
-There are one type of Source:
-- For [**BunifuUI**](https://pages.github.com/) users (With better UI look)
+**Download** [**_OpenSource_**](https://github.com/hesa656/GTAModUninstaller)
+
 ## If you don't use BunifuUI!
 1. Open project, delete **Bunifu_UI_v1.5.3** from **References**
 2. Delete this two lines in **Form1.Designer.cs**
