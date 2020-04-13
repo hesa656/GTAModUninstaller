@@ -12,14 +12,6 @@ Select mod files that you want to delete or Turn Off (Copy to another dir that y
 
 Download Source Code using **ONLY** GitHub Desktop!
 
-## If you don't use BunifuUI!
-1. Open project, delete **Bunifu_UI_v1.5.3** from **References**
-2. Delete this two lines in **Form1.Designer.cs**
-
-`private Bunifu.Framework.UI.BunifuSeparator bunifuSeparator1;`
-
-`private Bunifu.Framework.UI.BunifuSeparator bunifuSeparator2;`
-
 # What you can do now?
 Features:
 - Delete **All** or **Selected** files.
