@@ -8,10 +8,6 @@ Select mod files that you want to delete or Turn Off (Copy to another dir that y
 # Open Source
 **Download** [**_OpenSource_**](https://github.com/hesa656/GTAModUninstaller)
 
-**WARNING**
-
-Download Source Code using **ONLY** GitHub Desktop!
-
 # What you can do now?
 Features:
 - Delete **All** or **Selected** files.
